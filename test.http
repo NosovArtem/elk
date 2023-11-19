@@ -1,0 +1,12 @@
+GET http://localhost:8080/api/generate?count=10
+Accept: application/json
+
+###
+GET http://localhost:8080/api/error
+Accept: application/json
+
+###
+GET http://localhost:8080/api/warn
+Accept: application/json
+
+###
